@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "AbrilFatface";
+  src: url("https://fontsforyou.com/fonts/a/AbrilFatface.ttf");
+  font-weight: normal;
+}
+body {
+  font-family: "AbrilFatface";
+}
