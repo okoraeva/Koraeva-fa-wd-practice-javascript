@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Переменные, типы данных</title>
+</head>
+<body>
+    <script>
+        /* 1. Создайте калькулятор, который будет выполнять все арифметические операции над любыми 
+        введенными пользователем двумя числами. */
+
+/*          var num1 = parseInt(prompt('Первое число: '));
+        var num2 = parseInt(prompt('Второе число: '));
+
+        function calculate(x, y) {
+        var results = `Результат вычислений:<br>
+                x + y = ${x + y}<br>
+                x - y = ${x - y}<br>
+                x * y = ${x * y}<br>
+                x / y = ${x / y}<br>
+                Тип данных перемнной один - ${typeof(x)}<br>
+                Тип данных перемнной два - ${typeof(y)}`;
+        document.write(results);
+        }
+        calculate(num1, num2); */
+
+
+        /* 2. Необходимо попросить пользователя задумать число. 
+        Затем он должен умножить это число на 2 и прибавить к полученному результату 7. 
+        То, что вышло в итоге, нужно ввести в диалоговом окне prompt(). 
+        Вы должны выдать пользователю, какое число он задумал. */
+
+/*         var num = prompt('Загадайте число. Затем умножте это число на 2 и прибавьте к полученному результату 7. Введите результат: ');
+        document.write("Вы загадали число: "+(parseInt(num) - 7)/2);
+        document.write("Тип данных перемнной: "+typeof(num)); */
+
+        /* 3. С помощью метода prompt() получите сначала имя пользователя, 
+        затем год его рождения и сохраните в 2 переменные. 
+        Вычислите возраст пользователя, и выведите его в абзаце с помощью document.write() 
+        в таком формате "Антон: 24". */
+        
+        var name = prompt('Введите имя: ');
+        var birth_year = prompt('Введите год рождения: ');
+        var current_year = new Date().getFullYear();
+        document.write(`<p>${name}: ${current_year - parseInt(birth_year)}</p>`);
+        document.write("Тип данных перемнной имя: "+typeof(name)+"</br>");
+        document.write("Тип данных перемнной год рождения: "+typeof(birth_year));
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Стрелочные функции</title>
+</head>
+<body>
+    <select name="email" id="email">
+        <option value="first@mail.ru">first@mail.ru</option>
+        <option value="second@mail.ru">second@mail.ru</option>
+        <option value="third@mail.ru">third@mail.ru</option>
+        <option value="fourth@mail.ru">fourth@mail.ru</option>
+    </select>
+    <button onclick="filter(document.querySelector('#email'))">Отфильтровать</button>
+    <script>
+        /* 1. Воспользовавшись методическим указанием реализуйте Калькулятор в виде стрелочных функций. */
+
+        let sum = (x, y) => x + y;
+        let sub = (x, y) => x - y;
+        let mul = (x, y) => x * y;
+        let div = (x, y) => x / y;
+
+        console.log("Первая задача:");
+        console.log(sum(2, 2));
+        console.log(sub(2, 2));
+        console.log(mul(2, 2));
+        console.log(div(2, 2));
+
+        /* 2. Используя Function Expression реализуйте проверку условий тестовых заданий. */
+
+        let test_question = prompt("Сколько будет 2+2?");
+
+        let check = test_question==4 ?
+        () => alert('Правильно!') :
+        () => alert('Неверно!');
+
+        check(); 
+
+        /* 3. Реализуйте в виде стрелочной функции функцию, проверяющую вашу фамилию на полиндром. */
+
+        str = "abba";
+        let palindrome = str.split('').reverse().join('')==str ?
+        () => console.log('Это палиндром!') :
+        () => console.log('Это не палиндром!');
+
+        console.log("Третья задача:");
+        palindrome();
+
+        /* 4. Реализуйте в виде стрелочной функции вычисление среднего значения данных в массиве. */
+
+        var arr = [1, 2, 3, 4, 5];
+        console.log("Четвертая задача:");
+        console.log(arr.reduce((a, b) => (a + b)) / arr.length);
+
+        /* 5. В виде стрелочной функции реализуйте функцию, вычисляющую количество дней до нового года. */
+
+        var now = new Date(),
+        ny = new Date(now.getFullYear() + 1, 0, 1, 0, 0, 0);
+        
+        let days_left = () => console.log('Осталось ' + Math.floor((ny.getTime() - now.getTime()) / 86400000) + ' дней');
+        
+        console.log("Пятая задача:");
+        days_left();
+
+        /* 6. Создайте пустую стрелочную функцию возвращает undefined. */
+
+        console.log("Шестая задача:");
+        let empty = () => {};
+        empty();
+
+        /* 7. Создайте массив и напишите стрелочные функции для него: 
+        суммирование всех элементов, выявить все четные, умножить каждый элемент на 2. */
+
+        // Беру массив из 4ой задачи
+        var add = arr.reduce((a, b) => a + b);  
+        var even = arr.filter(v => v % 2 == 0); 
+        var double = arr.map(v => v * 2);
+        
+        console.log("Седьмая задача:");
+        console.log(add);
+        console.log(even);
+        console.log(double);
+
+        /* 8. Создайте массив с e-mail. Организуйте фильтр на странице html по названию почты. */
+
+        var mails = ["first@mail.ru", "second@mail.ru", "third@mail.ru", "fourth@mail.ru"]
+
+        let filter = (mail) => {
+            console.log("Восьмая задача:");
+            console.log(mails.filter((elem) => elem==mail.options[mail.selectedIndex].value));
+            document.write(mails.filter((elem) => elem==mail.options[mail.selectedIndex].value));
+        }
+
+        /* Организовать симулятор в виде стрелочной функции, который выдает только три случайных 
+        значения – красный, черный и белый (0, 1, 2). Запустить симуляцию 1000 000 раз. 
+        Узнать, какая последовательность из красных, черных или белых значений была самой длинной. */
+
+        var colors=[];    
+        
+        let createColor = () => Math.floor(Math.random() * 3)
+
+        for(i=0; i<=1000000; i++) {
+		    colors.push(createColor());
+	    }
+ 
+        function count(arr, color){
+            var counter = 0;
+            var max = 0;
+
+            for (i=0; i<=arr.length; i++){
+                if (arr[i] == color) {
+                    counter++;
+                    if (counter > max) {
+                        max = counter;
+                    }
+                } else {
+                    counter = 0;
+                }
+            }
+            return max;
+        }
+
+        console.log("Девятая задача:");
+        console.log("Максимальное число раз выпадало красное (0): " + count(colors, 0));
+        console.log("Максимальное число раз выпадало черное (1): " + count(colors, 1));
+        console.log("Максимальное число раз выпадало белое (2): " + count(colors, 2));       
+        
+
+    </script>
+</body>
+</html>

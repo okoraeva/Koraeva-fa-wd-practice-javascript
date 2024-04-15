@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Оператор ветвления if, циклы do, while, for</title>
+</head>
+<body>
+    <script>
+        /*  1. Напишите программу на Java Script, которая считает от 1 до 10.
+
+            2. Создайте программу для застолий, которая будет предлагать «Еще по одной?» 
+            пока пользователь не введет единицу.
+
+            3. Вычислите факториал числа (вашего порядкового номера в журнале).
+
+            4. Напишите программу, которая проверяет вашу фамилию на палиндром.
+
+            5. Выведите все простые числа от 1 до вашего порядкового номера в журнале. 
+
+            6. Реализовать представленную блок-схему посредством JavaScript. */
+
+        // Задача 1
+
+/*         var num = 0;
+        while (num <= 9) {
+            num+=1;
+            alert(num);
+        } */
+
+        // Задача 2
+
+/*         do {
+            alert("Еще по одной?");
+        } while (prompt("Для записи в рехаб напиши '1': ")!="1");
+        alert("Поправляйся!"); */
+        
+        // Задача 3
+
+/*         function factorial(n) {
+            return (n!=1) ? n * factorial(n - 1) : 1;
+        }
+
+        alert(factorial(8));  */
+
+        // Задача 4
+
+/*         var str = "Кораева";
+        str.split('').reverse().join('')==str?alert('Это палиндром!'):alert('Это не палиндром!'); */
+
+        // Задача 5
+
+/*         var n = 8;
+        for (let i = 1; i <= n; i++) {
+            for (let j = 2; j <= i; j++) {
+                if (i % j === 0 && j < i) {
+                    break;
+                } else if (j === i) {
+                    alert(i);
+                }
+            }
+        } */
+
+        // Задача 6
+
+        var guesses = 0;
+        var riddle1 = prompt("Как на древней Ручи называли человека, который крадёт баги из кода?");
+        var riddle2 = prompt("Что не так с подчерком врачей?");
+
+        function ask_riddle(riddle, answer){
+            if (riddle == answer){
+                guesses+=1;
+                alert("Верно!");
+            }else{
+                alert("Неверно:(");
+            }
+        }
+        
+        ask_riddle(riddle1, "Баготырь");
+        ask_riddle(riddle2, "Кодировка");
+
+        alert(guesses);
+
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Методы объекта, this. Конструкторы, создание объектов через "new"</title>
+</head>
+<body>
+    <script>
+        /* 1. Создайте объект – информация о покупателе (не менее 5 строк) и выведите три из них. */
+
+/*         let customer = {
+        name: "Джон",
+        age: 30,
+        phone: +79111111111,
+        email: "mail@gmail.com",
+        payment_method: "credit card",
+        delivery: 1,
+        address: "г. Москва, ул. Театральная 2"
+        };
+
+        document.write(`${customer.name} </br> ${customer.payment_method} </br> ${customer.address}`) */
+        
+        /* 2. Создайте объекты пользователи, заказы и рестораны с соответствующими значениями.
+        3. Организуйте вывод информации из объектов по условию. */
+
+/*         let users = {
+        user1: {name: "Ольга", address: "г. Санкт-Петербург, ул. 6-я Красноармейская ул., 5-7"},
+        user2: {name: "Александр", address: "г. Москва, ул. Винокурова, 2"},
+        };
+
+        let orders = {
+        order1: {user: "user1", restaurant: "restaurant1", positions: ["Суп дня", "Пюре с котлетой", "Морс"], comment: ""},
+        order2: {user: "user2", restaurant: "restaurant2", positions: ["Пирог с капустой", "Сок"], comment: ""},
+        order3: {user: "user2", restaurant: "restaurant2", positions: ["Оливье"], comment: "забыл салат"}
+        };
+
+        let restaurants = {
+        restaurant1: {name: "Столовая №1", address: "г. Санкт-Петербург, Лиговский просп., 43-45"},
+        restaurant2: {name: "Штолле", address: "г. Москва, Минская ул., 14, корп. 1"}
+        };
+
+        for (let key in orders) {
+            if (orders[key].restaurant == "restaurant2") document.write("Заказ ресторана Штолле: "+orders[key].positions+"</br>");
+        } */
+
+        /* 4. При помощи функции-конструктора и оператора "new" создайте функцию, выводящую имена вашей группы.
+        Используя конструктор, создайте объект – студент.
+        Передайте конструктору параметры, определяющие, как создавать объект, и что в него записывать. */
+
+/*         function User(name) {
+            this.name = name;
+            this.isAdmin = false;
+        }
+
+        let user = new User("Вася");
+
+        document.write(user.name+"</br>"); 
+        document.write(user.isAdmin+"</br>"); 
+
+        function Student(name, course) {
+        this.name = name;
+        this.course = course;
+        this.sayHi = function() {
+            document.write(`Меня зовут: ${this.name}, я учусь на ${this.course} курсе`);
+        };
+        }
+
+        let student1 = new Student("Костя", 2);
+        student1.sayHi();  */
+
+        /* 5. Создайте объект Калькулятор, в котором будут реализованы арифметические операции в качестве значений. */
+
+        let calculator = {
+        sum(x, y) {return x + y;},
+        sub(x, y) {return x - y;},
+        mul(x, y) {return x * y;},
+        div(x, y) {return x / y;},
+        };
+
+        document.write(calculator.sum(2, 2)+"</br>");
+        document.write(calculator.sub(2, 2)+"</br>");
+        document.write(calculator.mul(2, 2)+"</br>");
+        document.write(calculator.div(2, 2)+"</br>");
+    </script>
+</body>
+</html>
