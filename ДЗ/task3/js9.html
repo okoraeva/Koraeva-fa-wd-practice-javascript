@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Работа с формами</title>
+    <style>
+        form {
+            background-color: #43133e3d;
+            font-family: Verdana;
+            
+        }
+        H1 { 
+            font-size: 120%; 
+            font-family: Verdana, Arial, Helvetica, sans-serif; 
+            color: #333366; 
+        }
+    </style>
+</head>
+<body>
+    <FORM NAME="Sel3">
+        <H1>Регистрация</H1>
+        <TABLE>
+            <TR><TD><B>Идентификатор:<B></TD>
+                <TD><INPUT NAME="Id" SIZE=20
+                        onBlur="this.value=this.value.toUpperCase()"></TD></TR>
+            <TR><TD><B>Пароль:<B></TD>
+                <TD><INPUT TYPE="password" NAME="Pwd" SIZE=20
+                        onFocus="this.select();"></TD></TR>
+            <TR><TD><B>Проверка пароля:<B></TD>
+                <TD><INPUT TYPE="password" NAME="Pwd1" SIZE=20
+                        onFocus="this.select();"></TD></TR>
+        </TABLE>
+        <INPUT TYPE="button" VALUE="Готово" onClick="Complete1();">
+        <INPUT TYPE="reset" VALUE="Сброс">
+    </FORM>
+    <script>
+        /* 1. Создайте форму, которая будет запоминать параметры входа (ник и пароль) с валидацией пароля.
+            Оформите форму стилями. */
+
+        function Complete1()
+        {
+            if(document.Sel3.Pwd.value==document.Sel3.Pwd1.value)
+                alert("Вас зарегистрировали\nID="+document.Sel3.Id.value+"\nPassword="+document.Sel3.Pwd.value);
+            else
+                alert("Ошибка при вводе пароля\nПопробуйте еще раз");
+        }
+    </script>
+</body>
+</html>

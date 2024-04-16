@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Тип данных Symbol. Конструкция "switch"</title>
+</head>
+<body>
+    <script>
+        /* 1. Создайте объекты «Клиент банка», «Работник клиники», «Гражданин РФ» с символьными значениями в том числе.
+            Выведите их свойства на экран. */
+
+        let clientID = Symbol("clientID");
+        let currency = Symbol("currency");
+
+        let bankClient = {
+        name: "Вася",
+        age: 30,
+        account: 50000,
+        [currency]: "USD",
+        [clientID]: 123
+        };
+
+        let workerID = Symbol("workerID");
+
+        let clinicWorker = {
+        name: "Pete",
+        age: 35,
+        profession: "dentist",
+        [workerID]: 15
+        };
+
+        let nationality = Symbol("nationality");
+
+        let citizenRU = {
+        name: "Олег",
+        age: 15,
+        city: "Moscow",
+        [nationality]: "RU"
+        };
+
+        for (let key in bankClient) console.log(key);
+        for (let key in clinicWorker) console.log(key);
+        for (let key in citizenRU) console.log(key); 
+
+        /* 2. Перепишите условия "if" на "switch" */
+
+        const number = +prompt('Загадайте цифру до 9', '');
+
+        switch (number){
+            case 1: 
+                alert('Вы ввели число 1');
+                break;
+            case 2: 
+                alert('Вы ввели число 2');
+                break;
+            case 8:
+            case 9: 
+                alert('Вы ввели число 8, а может и 9');
+                break;
+            default:
+                break;
+        }
+
+        /* 3. Решите через swith. В переменной min лежит число от 0 до 59.
+            Определите в какую четверть часа попадает это число. */
+
+        var min = 45;
+        
+        switch (true){
+            case min <= 15: 
+                alert('1');
+                break;
+            case min <= 30: 
+                alert('2');
+                break;
+            case min <= 45: 
+                alert('3');
+                break;
+            case min > 45: 
+                alert('4');
+                break;
+        }
+        
+        /* 4. Дана строка с цифрами. Проверьте, что первым символом этой строки является цифра 1, 2 или 3. Если это так - выведите 'Первая цифра 1, 2 или 3', в противном случае выведите 'нет'. 
+        Проверьте наличие включения вашего номера телефона в строку. */
+
+        var str = "1aaa";
+
+        switch (true){
+            case str.includes("1"):
+            case str.includes("2"):
+            case str.includes("3"):
+                console.log("Первая цифра 1, 2 или 3");
+                break;
+            default:
+                console.log("Нет");
+                break;
+        }
+    </script>
+</body>
+</html>

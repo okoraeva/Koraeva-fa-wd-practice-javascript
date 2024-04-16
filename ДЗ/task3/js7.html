@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Функции высшего порядка</title>
+</head>
+<body>
+    <script>
+        /* 1. Воспользовавшись методом map(), создайте новый массив из имеющегося, который содержит увеличенные элементы на 10 и в три раза. */
+
+        var arr = [1, 2, 3, 4, 5];
+
+        let new_arr = arr.map(function(v) {return (v +10) * 2});
+
+        console.log(new_arr);
+
+        /* 2. Имеется массив «год рождения». Необходимо вывести их возраст. */
+
+        var birth_years = [1999, 2000, 1974, 1945]
+
+        var current_year = new Date().getFullYear();
+
+        let ages = birth_years.map(v => current_year - v);
+
+        console.log(ages);
+ 
+        /* 3. редположим, у нас имеется массив, содержащий объекты, в свойствах которых хранятся сведения об имени и возрасте 
+        представителей некой группы людей. Нам надо создать массив, в котором будут сведения только о совершеннолетних 
+        представителях этой группы (тех, чей возраст достиг 18 лет). 
+        Используя данный пример, реализуйте проверку по условию на право редактирования сайта и вывод имени админа.*/
+
+        const persons = [
+        { name: 'Peter', age: 16, isAdmin: false },
+        { name: 'Mark', age: 18, isAdmin: false },
+        { name: 'John', age: 27, isAdmin: false },
+        { name: 'Jane', age: 14, isAdmin: false },
+        { name: 'Tony', age: 24, isAdmin: true },
+        ];
+        const fullAge = persons.filter(person => person.age >= 18);
+        console.log(fullAge);
+
+        const admin = persons.filter(person => person.isAdmin);
+        console.log(admin[0].name);
+
+        /* 4. Используя синтаксис, вычислите средний балл студентов. */
+
+        var grades = [3, 2, 5, 4, 5];
+        const sum = grades.reduce(function(accumulator, currentValue) { return accumulator + currentValue; });
+        console.log(sum / grades.length);
+
+        /* 5. Используя синтаксис, создайте собственную функцию высшего порядка, которая из заданного массива возвращает массив, 
+        состоящий из нулей (для тех элементов длинна которых меньше либо равна 3) и единиц (в другом случае). */
+
+        const strArray = ['JavaScript', 'Python', 'PHP', 'Java', 'C'];
+
+        function mapForEach(arr, fn) {
+        const newArray = [];
+        for(let i = 0; i < arr.length; i++) {
+            newArray.push(
+            fn(arr[i])
+            );
+        }
+        return newArray;
+        }
+        const lenArray = mapForEach(strArray, function(item) {
+        return item.length;
+        });
+        // выводит [ 10, 6, 3, 4, 1 ]
+        console.log(lenArray);
+
+        let lenArray2 = strArray.map(str => { 
+            if (str.length<=3) {
+                return 0;
+            }else {
+                return 1;
+            }
+        });
+        console.log(lenArray2);
+        
+    </script>
+</body>
+</html>
