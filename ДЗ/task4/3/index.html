@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Основы JSX</title>
+</head>
+  <body>
+    <div id="example"></div>
+    <!-- Загрузка React. -->
+    <!-- Внимание: во время развертывания, замените "development.js" на "production.min.js". -->
+    <script src="https://unpkg.com/react@16/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <script type="text/babel">
+      const userClassName = "user-info";
+      const styleObj = {
+          color:'pink', 
+          fontFamily:'Verdana'
+      };
+      const user = {
+          id : 1,
+          age: 24,
+          firstName: 'Olga',
+          lastName: 'Koraeva',
+          getFullName: function(){ 
+              return `${this.firstName} ${this.lastName}`;
+          }
+      };
+      ReactDOM.render(
+          //<h2>5 + 2 = {5 + 2}</h2>
+          <div className={userClassName}  style={styleObj}>
+            <p>Полное имя: {user.getFullName()}</p>
+            <p>Возраст: {user.age}</p>
+          </div>,
+          document.getElementById("example")
+      )
+  </script>
+
+  </body>
+</html>

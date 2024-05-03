@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Метод render</title>
+</head>
+  <body>
+    <div id="example"></div>
+    <!-- Загрузка React. -->
+    <!-- Внимание: во время развертывания, замените "development.js" на "production.min.js". -->
+    <script src="https://unpkg.com/react@16/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <script type="text/babel">
+        const e = React.createElement;
+        ReactDOM.render (
+            <div><h1>Пример текста.</h1></div>,
+            document.getElementById("example")
+        );
+    </script>
+
+  </body>
+</html>

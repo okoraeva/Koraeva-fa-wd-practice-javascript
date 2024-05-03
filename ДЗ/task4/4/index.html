@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Props, State и события</title>
+</head>
+  <body>
+    <style>
+    button{
+      width: 100px;
+      height:30px;
+      border-radius: 4px;
+      margin:50px;
+      }
+      .on{
+          color:#666;
+          background-color: #ccc;
+      }
+      .off{
+          color:#888;
+          background-color: white;
+      }
+    </style>
+    <div id="example"></div>
+    <div id="button"></div>
+    <!-- Загрузка React. -->
+    <!-- Внимание: во время развертывания, замените "development.js" на "production.min.js". -->
+    <script src="https://unpkg.com/react@16/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <script type="text/babel">
+      const Hello = (props) => {
+        const {name, age} = props;
+          return(<div>
+            <p>Имя: {name}</p>
+            <p>Возраст: {age}</p>
+            </div>);
+      }
+      class ClickButton extends React.Component {
+         constructor(props) {
+             super(props);
+             this.state = {class: "off", label: "Нажми"};
+               
+             this.press = this.press.bind(this);
+         }
+         press(){
+             let className = (this.state.class==="off")?"on":"off";
+             this.setState({class: className});
+         }
+         render() {
+             return <button onClick={this.press} className={this.state.class}>{this.state.label}</button>;
+         }
+      }
+      ReactDOM.render(
+        <Hello name="Olga" age="24"/>,
+        document.getElementById("example")
+      )
+      ReactDOM.render(
+        <ClickButton />,
+        document.getElementById("button")
+      )
+  </script>
+
+  </body>
+</html>
