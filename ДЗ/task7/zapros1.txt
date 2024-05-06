@@ -1,0 +1,1094 @@
+[
+    [
+        "ГОСУДАРСТВЕННОЕ (ОБЛАСТНОЕ) БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ЦЕНТР МОЛОДЕЖИ\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=683403",
+        "Оказание услуг по организации и проведению промотура «Область возможностей» в рамках реализации федерального проекта «Развитие системы поддержки молодежи («Молодежь России»)» национального проекта «Образование»",
+        406000.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0346200015724000019"
+    ],
+    [
+        "ГОСУДАРСТВЕННОЕ (ОБЛАСТНОЕ) БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ЦЕНТР МОЛОДЕЖИ\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=683403",
+        "Оказание услуг по организации и проведению комплекса мероприятий «Школа КВН» в рамках реализации регионального проекта «Социальная активность» национального проекта «Образование»",
+        300000.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0346200015724000018"
+    ],
+    [
+        "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ ПРОФЕССИОНАЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ  \"ЛИПЕЦКИЙ МЕДИЦИНСКИЙ КОЛЛЕДЖ\"",
+        "https://zakupki.gov.ru/epz/organization/view223/info.html?agencyId=11404",
+        "Поставка кондиционеров",
+        1804000.0,
+        "https://zakupki.gov.ru/epz/order/notice/notice223/common-info.html?noticeInfoId=16740537"
+    ],
+    [
+        "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ПРОФЕССИОНАЛЬНОГО ОБРАЗОВАНИЯ ЛИПЕЦКОЙ ОБЛАСТИ \"ИНСТИТУТ РАЗВИТИЯ ОБРАЗОВАНИЯ\"",
+        "https://zakupki.gov.ru/epz/organization/view223/info.html?agencyId=882",
+        "Закупка сплит систем настенного типа",
+        232520.0,
+        "https://zakupki.gov.ru/epz/order/notice/notice223/common-info.html?noticeInfoId=16735458"
+    ],
+    [
+        "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБЩЕОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ЛИПЕЦКОЙ ОБЛАСТИ \"СПЕЦИАЛЬНАЯ ШКОЛА-ИНТЕРНАТ С. ЕРИЛОВКА\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=721266",
+        "Закупка кровати металлической",
+        50833.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0346200014424000012"
+    ],
+    [
+        "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ КУЛЬТУРЫ \"ЛИПЕЦКАЯ ОБЛАСТНАЯ УНИВЕРСАЛЬНАЯ НАУЧНАЯ БИБЛИОТЕКА\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=662389",
+        "Бумага туалетная",
+        50623.0,
+        "https://zakupki.gov.ru/epz/order/notice/zk20/view/common-info.html?regNumber=0346200001924000006"
+    ],
+    [
+        "ГОСУДАРСТВЕННОЕ ОБЛАСТНОЕ БЮДЖЕТНОЕ ПРОФЕССИОНАЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ \"ЗАДОНСКИЙ ПОЛИТЕХНИЧЕСКИЙ ТЕХНИКУМ\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=712596",
+        "Оказание охранных услуг (июнь-август)",
+        2679363.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0346100003524000014"
+    ],
+    [
+        "ЛИПЕЦКИЙ ОБЛАСТНОЙ СУД",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=774593",
+        "содержание имущества относящегося к икт (техническое обслуживание и заправка/восстановление картриджей)",
+        30108.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0146100002724000012"
+    ],
+    [
+        "МУНИЦИПАЛЬНОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ ЦЕНТР ТЕХНИЧЕСКОГО ТВОРЧЕСТВА \"НОВОЛИПЕЦКИЙ\" Г. ЛИПЕЦКА",
+        "https://zakupki.gov.ru/epz/organization/view223/info.html?agencyId=86603",
+        "Закупка коммунальных услуг  (электроэнергии)",
+        400000.0,
+        "https://zakupki.gov.ru/epz/order/notice/notice223/common-info.html?noticeInfoId=14840780"
+    ],
+    [
+        "МУНИЦИПАЛЬНОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ КУЛЬТУРЫ \"ЦЕНТР КУЛЬТУРНОГО РАЗВИТИЯ\" ГРЯЗИНСКОГО МУНИЦИПАЛЬНОГО РАЙОНА ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view223/info.html?agencyId=144844",
+        "Вывоз ТКО",
+        123600.0,
+        "https://zakupki.gov.ru/epz/order/notice/notice223/common-info.html?noticeInfoId=8984548"
+    ],
+    [
+        "МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ КУЛЬТУРЫ \"МЕЖПОСЕЛЕНЧЕСКИЙ ЦЕНТР КУЛЬТУРЫ И ДОСУГА ЛИПЕЦКОГО МУНИЦИПАЛЬНОГО РАЙОНА\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=674520",
+        "Поставка воды",
+        16800.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0346300031020000001"
+    ],
+    [
+        "МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"УПРАВЛЕНИЕ МУНИЦИПАЛЬНОГО ЗАКАЗА ГОРОДА ЛИПЕЦКА\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2299660",
+        "Оказание услуг, связанных с осуществлением регулярных перевозок пассажиров и багажа городским наземным электрическим транспортом\nпо регулируемым тарифам по муниципальному маршруту",
+        13500112.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0846600002124000323"
+    ],
+    [
+        "МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"УПРАВЛЕНИЕ МУНИЦИПАЛЬНОГО ЗАКАЗА ГОРОДА ЛИПЕЦКА\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2299660",
+        "Мебель для актового зала (ПУФЫ)",
+        47495.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0846600002124000321"
+    ],
+    [
+        "МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"УПРАВЛЕНИЕ МУНИЦИПАЛЬНОГО ЗАКАЗА ГОРОДА ЛИПЕЦКА\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2299660",
+        "Проведение технической инвентаризации и паспортизации бесхозяйных объектов инженерное инфраструктуры жилищно-коммунального хозяйства города Липецка в 2024 году",
+        2057000.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0846600002124000320"
+    ],
+    [
+        "МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"УПРАВЛЕНИЕ МУНИЦИПАЛЬНОГО ЗАКАЗА ГОРОДА ЛИПЕЦКА\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2299660",
+        "Поставка общестроительных материалов",
+        77001.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0846600002124000318"
+    ],
+    [
+        "МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"УПРАВЛЕНИЕ МУНИЦИПАЛЬНОГО ЗАКАЗА ГОРОДА ЛИПЕЦКА\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2299660",
+        "Поставка прицепа",
+        2034000.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0846600002124000315"
+    ],
+    [
+        "МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"УПРАВЛЕНИЕ МУНИЦИПАЛЬНОГО ЗАКАЗА ГОРОДА ЛИПЕЦКА\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2299660",
+        "Поставка прицепной подметально-уборочной машины",
+        10580000.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0846600002124000312"
+    ],
+    [
+        "МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"УПРАВЛЕНИЕ МУНИЦИПАЛЬНОГО ЗАКАЗА ГОРОДА ЛИПЕЦКА\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2299660",
+        "Поставка cоли технической (концентрат минеральный галит) в мягкой контейнерной расфасовке (МКР) с антислеживателем",
+        10486400.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0846600002124000310"
+    ],
+    [
+        "МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ЦЕНТР КОМПЕТЕНЦИИ В СФЕРЕ БУХГАЛТЕРСКОГО УЧЕТА И ЗАКУПОК\" ЕЛЕЦКОГО МУНИЦИПАЛЬНОГО РАЙОНА",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2282658",
+        "Контейнеры для сбора твердых бытовых отходов",
+        589459.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0846600000424000032"
+    ],
+    [
+        "МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ЦЕНТР КОМПЕТЕНЦИИ В СФЕРЕ БУХГАЛТЕРСКОГО УЧЕТА И МУНИЦИПАЛЬНОГО ЗАКАЗА ГРЯЗИНСКОГО МУНИЦИПАЛЬНОГО РАЙОНА\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2284661",
+        "Выполнение работ по проектированию, строительству и вводу в эксплуатацию блочно-модульной котельной в п. Сухоборье (в районе реабилитационно-оздоровительного центра «Лесная сказка»)",
+        30238920.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0846600000824000048"
+    ],
+    [
+        "МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ЦЕНТР КОМПЕТЕНЦИИ В СФЕРЕ БУХГАЛТЕРСКОГО УЧЕТА И МУНИЦИПАЛЬНОГО ЗАКАЗА ГРЯЗИНСКОГО МУНИЦИПАЛЬНОГО РАЙОНА\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2284661",
+        "Выполнение работ по проектированию, строительству и вводу в эксплуатацию блочно-модульной котельной в п. Сухоборье (в районе п/л «Прометей»)",
+        16175300.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0846600000824000047"
+    ],
+    [
+        "МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ЦЕНТР КОМПЕТЕНЦИИ В СФЕРЕ БУХГАЛТЕРСКОГО УЧЕТА И МУНИЦИПАЛЬНОГО ЗАКАЗА ДОБРИНСКОГО МУНИЦИПАЛЬНОГО РАЙОНА\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2284662",
+        "Поставка спортивного инвентаря",
+        69066.0,
+        "https://zakupki.gov.ru/epz/order/notice/zk20/view/common-info.html?regNumber=0846600000924000070"
+    ],
+    [
+        "МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ЦЕНТР КОМПЕТЕНЦИИ В СФЕРЕ БУХГАЛТЕРСКОГО УЧЕТА И МУНИЦИПАЛЬНОГО ЗАКАЗА ДОБРИНСКОГО МУНИЦИПАЛЬНОГО РАЙОНА\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2284662",
+        "Вода природная питьевая бутилированная",
+        30720.0,
+        "https://zakupki.gov.ru/epz/order/notice/zk20/view/common-info.html?regNumber=0846600000924000068"
+    ],
+    [
+        "МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ЦЕНТР КОМПЕТЕНЦИИ В СФЕРЕ БУХГАЛТЕРСКОГО УЧЕТА И МУНИЦИПАЛЬНОГО ЗАКАЗА КРАСНИНСКОГО МУНИЦИПАЛЬНОГО РАЙОНА\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2282739",
+        "Поставка пьедестала",
+        73910.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0846600000624000057"
+    ],
+    [
+        "МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ЦЕНТР КОМПЕТЕНЦИИ В СФЕРЕ БУХГАЛТЕРСКОГО УЧЕТА И МУНИЦИПАЛЬНОГО ЗАКАЗА КРАСНИНСКОГО МУНИЦИПАЛЬНОГО РАЙОНА\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2282739",
+        "Поставка туалетной бумаги и полотенец бумажных",
+        2910.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0846600000624000056"
+    ],
+    [
+        "МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ЦЕНТР КОМПЕТЕНЦИИ В СФЕРЕ БУХГАЛТЕРСКОГО УЧЕТА И МУНИЦИПАЛЬНОГО ЗАКАЗА КРАСНИНСКОГО МУНИЦИПАЛЬНОГО РАЙОНА\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2282739",
+        "Выполнение комплекса инженерных изысканий и мероприятий по разработке проектно-сметной документации по объекту \"Бурение разведочно-эксплуатационной скважины с установкой водонапорной башни в с.Яблоново ул.Русиновская Краснинского района Липецкой области\"",
+        2000000.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0846600000624000055"
+    ],
+    [
+        "МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ЦЕНТР КОМПЕТЕНЦИИ ЦЕНТРАЛИЗОВАННОГО БУХГАЛТЕРСКОГО УЧЕТА И МУНИЦИПАЛЬНОГО ЗАКАЗА ЛЕБЕДЯНСКОГО МУНИЦИПАЛЬНОГО РАЙОНА\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2284927",
+        "Выполнение комплекса работ по формированию земельного участка, расположенного по адресу: Российская Федерация, Липецкая область, Лебедянский район, сельское поселение Покрово-Казацкий сельсовет, для размещения сибиреязвенных захоронений.",
+        80000.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0846600001624000080"
+    ],
+    [
+        "МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ЦЕНТР КОМПЕТЕНЦИИ ЦЕНТРАЛИЗОВАННОГО БУХГАЛТЕРСКОГО УЧЕТА И МУНИЦИПАЛЬНОГО ЗАКАЗА ЛЕБЕДЯНСКОГО МУНИЦИПАЛЬНОГО РАЙОНА\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2284927",
+        "Приобретение и размещение контейнеров для накопления твердых коммунальных отходов на местах (площадках) накопления твердых коммунальных отходов городского поселения город Лебедянь.",
+        1199378.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0846600001624000079"
+    ],
+    [
+        "МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ЦЕНТР КОМПЕТЕНЦИИ ЦЕНТРАЛИЗОВАННОГО БУХГАЛТЕРСКОГО УЧЕТА И МУНИЦИПАЛЬНОГО ЗАКАЗА ЛЕБЕДЯНСКОГО МУНИЦИПАЛЬНОГО РАЙОНА\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2284927",
+        "Приобретение мешков мусорных",
+        19183.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0846600001624000078"
+    ],
+    [
+        "МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ЦЕНТР КОМПЕТЕНЦИЙ В СФЕРЕ БУХГАЛТЕРСКОГО УЧЕТА И МУНИЦИПАЛЬНОГО ЗАКАЗА\" ЗАДОНСКОГО МУНИЦИПАЛЬНОГО РАЙОНА",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2285795",
+        "Поставка, сборка в комплект и установка оборудования для актового зала в МБОУ гимназия №1 г.Задонска в целях реализации мероприятий по модернизации школьных систем образования",
+        2731045.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0846600001924000074"
+    ],
+    [
+        "МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ЦЕНТР КОМПЕТЕНЦИЙ В СФЕРЕ БУХГАЛТЕРСКОГО УЧЕТА И МУНИЦИПАЛЬНОГО ЗАКАЗА\" ЗАДОНСКОГО МУНИЦИПАЛЬНОГО РАЙОНА",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2285795",
+        "Поставка наградной продукции",
+        232648.0,
+        "https://zakupki.gov.ru/epz/order/notice/zk20/view/common-info.html?regNumber=0846600001924000065"
+    ],
+    [
+        "МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ЦЕНТР КОМПЕТЕНЦИЙ В СФЕРЕ БУХГАЛТЕРСКОГО УЧЕТА И МУНИЦИПАЛЬНОГО ЗАКАЗА\" ЗАДОНСКОГО МУНИЦИПАЛЬНОГО РАЙОНА",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2285795",
+        "Поставка и установка рельсовой системы с передвижными рельсовыми досками, неподвижными настенными досками, металлической рамки и устройством сенсорного ввода в целях реализации мероприятий по модернизации школьных систем образования",
+        2702406.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0846600001924000064"
+    ],
+    [
+        "МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ЦЕНТР КОМПЕТЕНЦИЙ В СФЕРЕ БУХГАЛТЕРСКОГО УЧЕТА И МУНИЦИПАЛЬНОГО ЗАКАЗА\" ЗАДОНСКОГО МУНИЦИПАЛЬНОГО РАЙОНА",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2285795",
+        "Оказание услуг по лабораторному обследованию, обеззараживанию и обработке помещений архивохранилищ, а также лабораторному обследованию, обеззараживанию, обработке и реставрации архивных документов для нужд отдела ЗАГС и архива администрации Задонского муниципального района Липецкой области",
+        6990016.0,
+        "https://zakupki.gov.ru/epz/order/notice/ok20/view/common-info.html?regNumber=0846600001924000061"
+    ],
+    [
+        "МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ЦЕНТР КОМПЕТЕНЦИЙ В СФЕРЕ МУНИЦИПАЛЬНЫХ ЗАКУПОК\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2431645",
+        "Поставка кресла-груши",
+        298906.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0846600002224000063"
+    ],
+    [
+        "МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ЦЕНТР КОМПЕТЕНЦИЙ В СФЕРЕ МУНИЦИПАЛЬНЫХ ЗАКУПОК\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2431645",
+        "Бумага для офисной техники",
+        62252.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0846600002224000062"
+    ],
+    [
+        "МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ЦЕНТР КОМПЕТЕНЦИЙ ЦЕНТРАЛИЗОВАННОГО БУХГАЛТЕРСКОГО УЧЕТА И МУНИЦИПАЛЬНЫХ ЗАКУПОК ТЕРБУНСКОГО МУНИЦИПАЛЬНОГО РАЙОНА ЛИПЕЦКОЙ ОБЛАСТИ\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2282817",
+        "поставка школьного автобуса на базе Газель Некст (или эквивалент) для нужд МБОУ СШ с. Борки",
+        4200000.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0846600000724000026"
+    ],
+    [
+        "МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ЦЕНТР ПО БУХГАЛТЕРСКИМ УСЛУГАМ И ЗАКУПКАМ ЛЕВ-ТОЛСТОВСКОГО МУНИЦИПАЛЬНОГО РАЙОНА\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2284931",
+        "Организация работ по демонтажу здания общежития,расположенного по адресу:Липецкая обл.,п. Лев Толстой,ул.Гагарина,д.5",
+        4607880.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0846600001824000019"
+    ],
+    [
+        "МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ЦЕНТР ФИНАНСОВЫХ КОМПЕТЕНЦИЙ\" ЧАПЛЫГИНСКОГО МУНИЦИПАЛЬНОГО РАЙОНА ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2284879",
+        "Хлебобулочные изделия",
+        325310.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0846600001524000064"
+    ],
+    [
+        "МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ЦЕНТР ФИНАНСОВЫХ КОМПЕТЕНЦИЙ\" ЧАПЛЫГИНСКОГО МУНИЦИПАЛЬНОГО РАЙОНА ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2284879",
+        "Яйца куриные в скорлупе свежие",
+        180480.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0846600001524000063"
+    ],
+    [
+        "МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ ВОЛОВСКОГО МУНИЦИПАЛЬНОГО ОКРУГА \"ЦЕНТР КОМПЕТЕНЦИИ В СФЕРЕ БУХГАЛТЕРСКОГО УЧЕТА И МУНИЦИПАЛЬНЫХ ЗАКУПОК ВОЛОВСКОГО МУНИЦИПАЛЬНОГО ОКРУГА\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2284687",
+        "Выполнение работ по благоустройству парковой зоны в с. Вышнее Большое Воловского района Липецкой области",
+        1155652.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0846600001024000040"
+    ],
+    [
+        "МУНИЦИПАЛЬНОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ЛИПЕЦКТЕПЛОСЕТЬ\"",
+        "https://zakupki.gov.ru/epz/organization/view223/info.html?agencyId=62587",
+        "Поставка запорной арматуры",
+        2000000.0,
+        "https://zakupki.gov.ru/epz/order/notice/notice223/common-info.html?noticeInfoId=16719200"
+    ],
+    [
+        "ОБЛАСТНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГЕРОНТОЛОГИЧЕСКИЙ ЦЕНТР ЛИПЕЦКОЙ ОБЛАСТИ\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=662487",
+        "Оказание услуг охраны в 3-м квартале 2024 года",
+        1358317.0,
+        "https://zakupki.gov.ru/epz/order/notice/ok20/view/common-info.html?regNumber=0346200007124000134"
+    ],
+    [
+        "ОБЛАСТНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГЕРОНТОЛОГИЧЕСКИЙ ЦЕНТР ЛИПЕЦКОЙ ОБЛАСТИ\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=662487",
+        "Оказание услуг охраны в 3-м квартале 2024 года",
+        1591096.0,
+        "https://zakupki.gov.ru/epz/order/notice/ok20/view/common-info.html?regNumber=0346200007124000133"
+    ],
+    [
+        "ОБЛАСТНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ИНФОРМАЦИОННО-ТЕХНИЧЕСКИЙ ЦЕНТР\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=1289715",
+        "Услуги по модификации Региональной системы межведомственного электронного взаимодействия Липецкой области с целью адаптации под операционную систему РЕД ОС",
+        800000.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0346200017424000006"
+    ],
+    [
+        "ОБЛАСТНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"РЕАБИЛИТАЦИОННЫЙ ЦЕНТР ЛИПЕЦКОЙ ОБЛАСТИ\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=702514",
+        "Услуги частной охраны (выставление поста охраны) для филиала «Реабилитационно-оздоровительный центр «Лесная сказка» на 4 месяца 2024 года",
+        1728105.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0346200008124000072"
+    ],
+    [
+        "ОБЛАСТНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"УПОЛНОМОЧЕННЫЙ МНОГОФУНКЦИОНАЛЬНЫЙ ЦЕНТР ПРЕДОСТАВЛЕНИЯ ГОСУДАРСТВЕННЫХ И МУНИЦИПАЛЬНЫХ УСЛУГ ЛИПЕЦКОЙ ОБЛАСТИ\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2026842",
+        "Кондиционеры, их монтаж, ввод в эксплуатацию",
+        90000.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0346200018524000046"
+    ],
+    [
+        "ОБЛАСТНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ЦЕНТР ПОМОЩИ СЕМЬЕ И ДЕТЯМ \"БОЛЬШАЯ МЕДВЕДИЦА\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2454665",
+        "Вода питьевая бутилированная",
+        33220.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0346500001124000130"
+    ],
+    [
+        "ОБЛАСТНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ЦЕНТР ПОМОЩИ СЕМЬЕ И ДЕТЯМ \"БОЛЬШАЯ МЕДВЕДИЦА\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2454665",
+        "Поставка масла моторного и смазочных материалов",
+        14666.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0346500001124000129"
+    ],
+    [
+        "ОБЛАСТНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ЦЕНТР ЭКОЛОГИЧЕСКИХ ПРОЕКТОВ\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=702901",
+        "Поставка фильтров мембранных и склянок для растворов реактивов",
+        16670.0,
+        "https://zakupki.gov.ru/epz/order/notice/zk20/view/common-info.html?regNumber=0346200014924000031"
+    ],
+    [
+        "ОБЛАСТНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ЭКСПЛУАТАЦИОННО-ТЕХНИЧЕСКИЙ ЦЕНТР УПРАВЛЕНИЯ ДЕЛАМИ ПРАВИТЕЛЬСТВА ЛИПЕЦКОЙ ОБЛАСТИ\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2264405",
+        "Работы по замене отливов",
+        125786.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0346500000924000101"
+    ],
+    [
+        "ОБЛАСТНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ КУЛЬТУРЫ \"ТЕАТР ТАНЦА \"КАЗАКИ РОССИИ\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2174839",
+        "Приобретение генератора (дыма, тумана).",
+        419996.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0346500000124000004"
+    ],
+    [
+        "ОБЛАСТНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ДАНКОВСКАЯ СТАНЦИЯ ПО БОРЬБЕ С БОЛЕЗНЯМИ ЖИВОТНЫХ\"",
+        "https://zakupki.gov.ru/epz/organization/view223/info.html?agencyId=56384",
+        "Выполнение работ по реконструкции здания склада (лит. Б) расположенного по адресу: Липецкая область, город Данков, улица Советская, дом 35 под хозяйственные постройки.",
+        9107050.0,
+        "https://zakupki.gov.ru/epz/order/notice/notice223/common-info.html?noticeInfoId=16668313"
+    ],
+    [
+        "ОБЛАСТНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ЗАДОНСКИЙ ПСИХОНЕВРОЛОГИЧЕСКИЙ ИНТЕРНАТ\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=662904",
+        "Благоустройство территории ОГБУ «Задонский психоневрологический интернат» с установкой ограждения и прокладыванием дорожек",
+        598288.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0346200010424000004"
+    ],
+    [
+        "ОБЛАСТНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ЛИПЕЦКДОРАВТОЦЕНТР\"",
+        "https://zakupki.gov.ru/epz/organization/view223/info.html?agencyId=7734",
+        "Оказание транспортных услуг (грузоперевозки автомобильным транспортом) по перевозке грузов для нужд Центрального филиала ОГУП «Липецкдоравтоцентр»",
+        19000000.0,
+        "https://zakupki.gov.ru/epz/order/notice/notice223/common-info.html?noticeInfoId=16732932"
+    ],
+    [
+        "ОБЛАСТНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ЛИПЕЦКДОРАВТОЦЕНТР\"",
+        "https://zakupki.gov.ru/epz/organization/view223/info.html?agencyId=7734",
+        "Поставка щебня известнякового для нужд Краснинского подразделения Северо-Западного филиала",
+        892969.0,
+        "https://zakupki.gov.ru/epz/order/notice/notice223/common-info.html?noticeInfoId=16720955"
+    ],
+    [
+        "ОБЛАСТНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ  \"ЕЛЕЦКИЙ СПЕЦИАЛИЗИРОВАННЫЙ ДОМ РЕБЕНКА\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=654634",
+        "выполнение работ по огнезащитной обработке деревянных конструкций чердачных помещений зданий и бытовых помещений ОКУ «Елецкий СДР\"",
+        135027.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0346300041924000008"
+    ],
+    [
+        "ОБЛАСТНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ЛИПЕЦКИЙ ОБЛАСТНОЙ ПРОТИВОТУБЕРКУЛЕЗНЫЙ САНАТОРИЙ \"ЛЕСНАЯ СКАЗКА\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=721224",
+        "еврокуб",
+        29600.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0346200012324000056"
+    ],
+    [
+        "ОБЛАСТНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ЛИПЕЦКИЙ ОБЛАСТНОЙ ПРОТИВОТУБЕРКУЛЕЗНЫЙ САНАТОРИЙ \"ЛЕСНАЯ СКАЗКА\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=721224",
+        "емкость для воды (канистра)",
+        6266.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0346200012324000055"
+    ],
+    [
+        "ОБЛАСТНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"УПРАВЛЕНИЕ ГОСУДАРСТВЕННОЙ ПРОТИВОПОЖАРНОЙ СПАСАТЕЛЬНОЙ СЛУЖБЫ ЛИПЕЦКОЙ ОБЛАСТИ\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=741182",
+        "№ 24-ЭА-64 Герметик",
+        5314.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0346200016124000067"
+    ],
+    [
+        "ОБЛАСТНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"УПРАВЛЕНИЕ ГОСУДАРСТВЕННОЙ ПРОТИВОПОЖАРНОЙ СПАСАТЕЛЬНОЙ СЛУЖБЫ ЛИПЕЦКОЙ ОБЛАСТИ\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=741182",
+        "№24-ЭА-66: Парко-гаражные инструменты",
+        20798.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0346200016124000066"
+    ],
+    [
+        "ОБЛАСТНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"УПРАВЛЕНИЕ ГОСУДАРСТВЕННОЙ ПРОТИВОПОЖАРНОЙ СПАСАТЕЛЬНОЙ СЛУЖБЫ ЛИПЕЦКОЙ ОБЛАСТИ\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=741182",
+        "№ 24-ЭА-67: Гидрокомбинезон мокрого типа",
+        446666.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0346200016124000065"
+    ],
+    [
+        "ОБЛАСТНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"УПРАВЛЕНИЕ ГОСУДАРСТВЕННОЙ ПРОТИВОПОЖАРНОЙ СПАСАТЕЛЬНОЙ СЛУЖБЫ ЛИПЕЦКОЙ ОБЛАСТИ\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=741182",
+        "№24-ЭА-65: Сантехническое оборудование",
+        17679.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0346200016124000064"
+    ],
+    [
+        "ОБЛАСТНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"УПРАВЛЕНИЕ ПО РАЗМЕЩЕНИЮ ГОСЗАКАЗА ЛИПЕЦКОЙ ОБЛАСТИ\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2242259",
+        "Оргтехника",
+        99620.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0846500000624000233"
+    ],
+    [
+        "ОБЛАСТНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"УПРАВЛЕНИЕ ПО РАЗМЕЩЕНИЮ ГОСЗАКАЗА ЛИПЕЦКОЙ ОБЛАСТИ\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2242259",
+        "Услуги по организации и проведению мероприятия «Молодежный пикник» в рамках реализации федерального проекта «Развитие системы поддержки молодежи (\"Молодежь России\")» национального проекта «Образование»",
+        4330000.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0846500000624000231"
+    ],
+    [
+        "ОБЛАСТНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"УПРАВЛЕНИЕ ПО РАЗМЕЩЕНИЮ ГОСЗАКАЗА ЛИПЕЦКОЙ ОБЛАСТИ\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2242259",
+        "Трактор",
+        5210510.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0846500000624000230"
+    ],
+    [
+        "ОБЛАСТНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"УПРАВЛЕНИЕ ПО РАЗМЕЩЕНИЮ ГОСЗАКАЗА ЛИПЕЦКОЙ ОБЛАСТИ\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2242259",
+        "Услуги по технической защите и аттестации информационных систем, плановый технический контроль обеспечения уровня защищенности",
+        1132000.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0846500000624000227"
+    ],
+    [
+        "ОБЛАСТНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"УПРАВЛЕНИЕ ПО РАЗМЕЩЕНИЮ ГОСЗАКАЗА ЛИПЕЦКОЙ ОБЛАСТИ\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2242259",
+        "Работы по расчистке ложа пруда, расположенного в районе ул. Советская с. Волово Воловского района Липецкой области",
+        9227910.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0846500000624000226"
+    ],
+    [
+        "ОБЛАСТНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"УПРАВЛЕНИЕ ПО РАЗМЕЩЕНИЮ ГОСЗАКАЗА ЛИПЕЦКОЙ ОБЛАСТИ\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2242259",
+        "Работы по модернизации и масштабированию интеллектуальной транспортной системы Липецкой городской агломерации и ее элементов",
+        245088043.0,
+        "https://zakupki.gov.ru/epz/order/notice/ok20/view/common-info.html?regNumber=0846500000624000225"
+    ],
+    [
+        "ОБЛАСТНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"УПРАВЛЕНИЕ ПО РАЗМЕЩЕНИЮ ГОСЗАКАЗА ЛИПЕЦКОЙ ОБЛАСТИ\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2242259",
+        "Услуги по защите рабочих станций, обрабатывающих персональные данные",
+        230958.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0846500000624000224"
+    ],
+    [
+        "ОБЛАСТНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"УПРАВЛЕНИЕ ПО РАЗМЕЩЕНИЮ ГОСЗАКАЗА ЛИПЕЦКОЙ ОБЛАСТИ\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2242259",
+        "Металлодетекторы арочные",
+        7580000.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0846500000624000219"
+    ],
+    [
+        "ОБЛАСТНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"УПРАВЛЕНИЕ ПО РАЗМЕЩЕНИЮ ГОСЗАКАЗА ЛИПЕЦКОЙ ОБЛАСТИ\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2242259",
+        "Наборы реагентов (ВИЧ1/ВИЧ2 антигены/антитела ИВД, набор, иммуноферментный анализ (ИФА))",
+        4776218.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0846500000624000210"
+    ],
+    [
+        "ОБЛАСТНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"УПРАВЛЕНИЕ ПО РАЗМЕЩЕНИЮ ГОСЗАКАЗА ЛИПЕЦКОЙ ОБЛАСТИ\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2242259",
+        "медицинские изделия для получения тромбоцитов лейкофильтрованных для аппарата цитофереза «Хемонетикс MCS+» (наборы для афереза).",
+        4881000.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0846500000624000223"
+    ],
+    [
+        "ОБЛАСТНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"УПРАВЛЕНИЕ ПО РАЗМЕЩЕНИЮ ГОСЗАКАЗА ЛИПЕЦКОЙ ОБЛАСТИ\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2242259",
+        "Медицинские изделия Кольпоскопы, ввод в эксплуатацию медицинских изделий, обучение правилам эксплуатации специалистов, эксплуатирующих медицинские изделия",
+        5476833.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0846500000624000222"
+    ],
+    [
+        "ОБЛАСТНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"УПРАВЛЕНИЕ ПО РАЗМЕЩЕНИЮ ГОСЗАКАЗА ЛИПЕЦКОЙ ОБЛАСТИ\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2242259",
+        "Палатки пневмокаркасные",
+        6235680.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0846500000624000220"
+    ],
+    [
+        "ОБЛАСТНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"УПРАВЛЕНИЕ ПО РАЗМЕЩЕНИЮ ГОСЗАКАЗА ЛИПЕЦКОЙ ОБЛАСТИ\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2242259",
+        "Услуги по предоставлению (продлению) неисключительных прав (лицензий) на использование компьютерного программного обеспечения",
+        3542400.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0846500000624000215"
+    ],
+    [
+        "ОБЛАСТНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"УПРАВЛЕНИЕ ПО РАЗМЕЩЕНИЮ ГОСЗАКАЗА ЛИПЕЦКОЙ ОБЛАСТИ\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2242259",
+        "Наборы к аппарату ультрафиолетового облучения компонентов крови для инактивации патогенов модели «Mirasol PRT System»",
+        5052800.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0846500000624000213"
+    ],
+    [
+        "ОБЛАСТНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"УПРАВЛЕНИЕ ПО РАЗМЕЩЕНИЮ ГОСЗАКАЗА ЛИПЕЦКОЙ ОБЛАСТИ\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=2242259",
+        "Услуги по организации отдыха и оздоровления детей в стационарном детском оздоровительном лагере",
+        27851197.0,
+        "https://zakupki.gov.ru/epz/order/notice/ok20/view/common-info.html?regNumber=0846500000624000209"
+    ],
+    [
+        "ОБЛАСТНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ЦЕНТР ЗАНЯТОСТИ НАСЕЛЕНИЯ ЛИПЕЦКОЙ ОБЛАСТИ\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=622021",
+        "Оказание услуг по обязательному страхованию гражданской ответственности владельцев транспортных средств.",
+        323696.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0346200003824000068"
+    ],
+    [
+        "ОБЛАСТНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ЦЕНТР ЗАНЯТОСТИ НАСЕЛЕНИЯ ЛИПЕЦКОЙ ОБЛАСТИ\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=622021",
+        "Поставка автомобильных шин.",
+        107080.0,
+        "https://zakupki.gov.ru/epz/order/notice/zk20/view/common-info.html?regNumber=0346200003824000067"
+    ],
+    [
+        "ОБЛАСТНОЕ СПЕЦИАЛИЗИРОВАННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ \"ЛЕСОПОЖАРНЫЙ ЦЕНТР\"",
+        "https://zakupki.gov.ru/epz/organization/view223/info.html?agencyId=7771",
+        "Оказание услуг по обеспечению функционирования на базе РДС ОСАУ «Лесопожарный центр» системы дистанционного мониторинга и раннего обнаружения лесных пожаров на территории лесного фонда Липецкой области (установка, настройка оборудования и ПО автоматизированной системы мониторинга за лесными пожарами).",
+        3916270.0,
+        "https://zakupki.gov.ru/epz/order/notice/notice223/common-info.html?noticeInfoId=16709065"
+    ],
+    [
+        "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РВК-ЛИПЕЦК\"",
+        "https://zakupki.gov.ru/epz/organization/view223/info.html?agencyId=594161",
+        "Маркетинговое исследование в электронной форме на электронной торговой площадке на право заключения договора на выполнение строительно-монтажных работ по строительству сетей и сооружений водоснабжения и водоотведения с целью подключения объектов капитального строительства к инженерным сетям водоснабжения и водоотведения, проводимый централизованно ООО УК «РОСВОДОКАНАЛ» для нужд ООО \"РВК-Липецк\".",
+        20575260.0,
+        "https://zakupki.gov.ru/epz/order/notice/notice223/common-info.html?noticeInfoId=16740830"
+    ],
+    [
+        "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РВК-ЛИПЕЦК\"",
+        "https://zakupki.gov.ru/epz/organization/view223/info.html?agencyId=594161",
+        "Конкурентные переговоры в электронной форме на право заключения договора на поставку железобетонных изделий, проводимые нецентрализованно  для нужд ООО «РВК-Липецк».",
+        236848.0,
+        "https://zakupki.gov.ru/epz/order/notice/notice223/common-info.html?noticeInfoId=16739920"
+    ],
+    [
+        "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РВК-ЛИПЕЦК\"",
+        "https://zakupki.gov.ru/epz/organization/view223/info.html?agencyId=594161",
+        "Конкурентный отбор в электронной форме на электронной торговой площадке на право заключения договора на выполнение работ по очистке резервуаров: 1. «Станция перекачки ЦНС ул. Вермишева, 16б соор.1, 10 мкр. инв. № 000014346 (инв. № 100225 собственника), чистка резервуаров КНС»\n2. «Здание канализационной насосной станции № 23 ул. Ладыгина, соор. 21а ст. Казинка (литер А) инв. № 0000014281 очистка резервуара (инв. № 100376 собственника)» 3. «Станция перекачки №11 ул. Каменный Лог, 15, соор. 1 инв. № 0000014327 очистка резервуара (инв. № 100065 собственника)» 4. «Здание перекачки № 19 ул. Московская, 36 соор. 1 (котельная Ю-З района) инв. № 000014328 (инв.№100205 собственника), очистка резервуара»\n5. «Станция перекачки № 2 ул. Гагарина, 104, соор. 1 (Литер А) инв. № 000014422 (инв. № 100061 собственника), очистка резервуара» \nпроводимый централизованно ООО УК «РОСВОДОКАНАЛ» для нужд ООО \"РВК-Липецк\".",
+        4493298.0,
+        "https://zakupki.gov.ru/epz/order/notice/notice223/common-info.html?noticeInfoId=16733137"
+    ],
+    [
+        "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РВК-ЛИПЕЦК\"",
+        "https://zakupki.gov.ru/epz/organization/view223/info.html?agencyId=594161",
+        "Конкурентный отбор в электронной форме на электронной торговой площадке на право заключения договора на выполнение работ по очистке резервуаров: 1. «Резервуар, 1000 куб.м, ТЭЦ-2 инв. № 000010582 (инв. № 200503 собственника), очистка резервуара» 2. «Резервуар, 1000 куб.м, ТЭЦ-2 инв. № 000017589 (инв. № 200503 собственника), очистка резервуара» 3. «Резервуар, 850 куб.м, ТЭЦ-2 инв. № 000017236 (инв. № 200505 собственника), очистка резервуара», проводимый нецентрализованно для нужд ООО «РВК-Липецк».",
+        751539.0,
+        "https://zakupki.gov.ru/epz/order/notice/notice223/common-info.html?noticeInfoId=16730004"
+    ],
+    [
+        "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РВК-ЛИПЕЦК\"",
+        "https://zakupki.gov.ru/epz/organization/view223/info.html?agencyId=594161",
+        "Маркетинговое исследование в электронной форме на электронной торговой площадке на право заключения договора на выполнение строительно-монтажных работ по объекту: \"Строительство зон санитарной охраны первого пояса водозабора № 7\". Строительство освещения, видеонаблюдения, проводимый централизованно ООО УК «РОСВОДОКАНАЛ» для нужд ООО \"РВК-Липецк\".",
+        6112862.0,
+        "https://zakupki.gov.ru/epz/order/notice/notice223/common-info.html?noticeInfoId=16729992"
+    ],
+    [
+        "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РВК-ЛИПЕЦК\"",
+        "https://zakupki.gov.ru/epz/organization/view223/info.html?agencyId=594161",
+        "Конкурентный отбор в электронной форме на электронной торговой площадке на право заключения договора на оказание услуг по устранению засоров на сетях водоотведения, в том числе профилактических и аварийно-восстановительных работ, проводимый нецентрализованно \nдля нужд ООО «РВК-Липецк».",
+        833333.0,
+        "https://zakupki.gov.ru/epz/order/notice/notice223/common-info.html?noticeInfoId=16711430"
+    ],
+    [
+        "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РВК-ЛИПЕЦК\"",
+        "https://zakupki.gov.ru/epz/organization/view223/info.html?agencyId=594161",
+        "Конкурентный отбор в электронной форме на электронной торговой площадке на право заключения договора на поставку комплектующих к оборудованию, проводимый нецентрализованно для нужд \nООО «РВК-Липецк».",
+        1315231.0,
+        "https://zakupki.gov.ru/epz/order/notice/notice223/common-info.html?noticeInfoId=16709857"
+    ],
+    [
+        "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РВК-ЛИПЕЦК\"",
+        "https://zakupki.gov.ru/epz/organization/view223/info.html?agencyId=594161",
+        "Конкурентный отбор в электронной форме на электронной торговой площадке на поставку гипохлорита натрия марки А, проводимый нецентрализованно, для нужд ООО «РВК-Липецк».",
+        2708750.0,
+        "https://zakupki.gov.ru/epz/order/notice/notice223/common-info.html?noticeInfoId=16701033"
+    ],
+    [
+        "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РВК-ЛИПЕЦК\"",
+        "https://zakupki.gov.ru/epz/organization/view223/info.html?agencyId=594161",
+        "Маркетинговое исследование в электронной форме на электронной торговой площадке на право заключения договора на выполнение кровельных работ на объектах:\n1. Здание решеток с приемной камерой, инв.№38284;\n2. Здание погрузки осадка, инв.№326014;\n3. Здание воздуходувной станции ПАО «НЛМК», инв.№38293;\n4. Здание НФС, инв.№15840, проводимый нецентрализованно для нужд ООО «РВК-Липецк».",
+        957427.0,
+        "https://zakupki.gov.ru/epz/order/notice/notice223/common-info.html?noticeInfoId=16697904"
+    ],
+    [
+        "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РВК-ЛИПЕЦК\"",
+        "https://zakupki.gov.ru/epz/organization/view223/info.html?agencyId=594161",
+        "Маркетинговое исследование в электронной форме на электронной торговой площадке на право заключения договора на поставку сыпучих материалов, проводимое нецентрализованно, для нужд ООО «РВК-Липецк».",
+        3387249.0,
+        "https://zakupki.gov.ru/epz/order/notice/notice223/common-info.html?noticeInfoId=16697487"
+    ],
+    [
+        "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЧИСТЫЙ ГОРОД\"",
+        "https://zakupki.gov.ru/epz/organization/view223/info.html?agencyId=11341",
+        "Закупка спецодежды для нужд ООО \"Чистый Город\"",
+        141172.0,
+        "https://zakupki.gov.ru/epz/order/notice/notice223/common-info.html?noticeInfoId=16732912"
+    ],
+    [
+        "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЧИСТЫЙ ГОРОД\"",
+        "https://zakupki.gov.ru/epz/organization/view223/info.html?agencyId=11341",
+        "Закупка работ по второму этапу строительства объекта капитального строительства \"Объект размещения отходов Грязинской зоны\"",
+        82423677.0,
+        "https://zakupki.gov.ru/epz/order/notice/notice223/common-info.html?noticeInfoId=16727676"
+    ],
+    [
+        "ОТДЕЛЕНИЕ ФОНДА ПЕНСИОННОГО И СОЦИАЛЬНОГО СТРАХОВАНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=732723",
+        "Поставка брайлевских дисплеев для социального обеспечения получателей",
+        930400.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0246100000424000161"
+    ],
+    [
+        "ОТДЕЛЕНИЕ ФОНДА ПЕНСИОННОГО И СОЦИАЛЬНОГО СТРАХОВАНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=732723",
+        "Поставка тростей для социального обеспечения получателей",
+        20565.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0246100000424000160"
+    ],
+    [
+        "ОТДЕЛЕНИЕ ФОНДА ПЕНСИОННОГО И СОЦИАЛЬНОГО СТРАХОВАНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=732723",
+        "Поставка костылей для социального обеспечения получателей",
+        13169.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0246100000424000159"
+    ],
+    [
+        "ОТДЕЛЕНИЕ ФОНДА ПЕНСИОННОГО И СОЦИАЛЬНОГО СТРАХОВАНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=732723",
+        "Поставка универсального электрического подъемника для социального обеспечения получателей",
+        214275.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0246100000424000158"
+    ],
+    [
+        "ТЕРРИТОРИАЛЬНЫЙ ОРГАН ФЕДЕРАЛЬНОЙ СЛУЖБЫ ГОСУДАРСТВЕННОЙ СТАТИСТИКИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=767798",
+        "Горюче-смазочные материалы",
+        59315.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0146100000624000016"
+    ],
+    [
+        "УПРАВЛЕНИЕ ЛЕСНОГО ХОЗЯЙСТВА ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=782865",
+        "Картриджи и чернила для офисной техники",
+        93668.0,
+        "https://zakupki.gov.ru/epz/order/notice/zk20/view/common-info.html?regNumber=0146200002524000011"
+    ],
+    [
+        "УПРАВЛЕНИЕ ОБРАЗОВАНИЯ И НАУКИ ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=627131",
+        "Наборы по закреплению изучаемых тем по предметным областям основного общего образования в рамках реализации регионального проекта \"Современная школа\" национального проекта \"Образование\" (Шифр: 48-2024-нр5172)",
+        433122.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0146200000124000012"
+    ],
+    [
+        "УПРАВЛЕНИЕ СУДЕБНОГО ДЕПАРТАМЕНТА В ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=618069",
+        "Приобретение путевок в санатории и пансионаты, расположенные на территории Российской Федерации для федеральных, мировых судей Липецкой области",
+        1020000.0,
+        "https://zakupki.gov.ru/epz/order/notice/ok20/view/common-info.html?regNumber=0146100004224000051"
+    ],
+    [
+        "УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ БЕЗОПАСНОСТИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=774681",
+        "Приобретение изделий медицинского назначения  для нужд УФСБ России по Липецкой области",
+        1493.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0146100008321000043"
+    ],
+    [
+        "УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ БЕЗОПАСНОСТИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=774681",
+        "Оказание услуг междугородной и международной телефонной связи для нужд УФСБ России по Липецкой области.",
+        58630.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0146100008321000042"
+    ],
+    [
+        "УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ БЕЗОПАСНОСТИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=774681",
+        "Оказание услуг по предоставлению доступа к сети интернет для нужд УФСБ России по Липецкой области",
+        203173.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0146100008321000041"
+    ],
+    [
+        "УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ БЕЗОПАСНОСТИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=774681",
+        "Оказание услуг по размещению оборудования связи для нужд УФСБ России по Липецкой области.",
+        321408.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0146100008321000040"
+    ],
+    [
+        "УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ БЕЗОПАСНОСТИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=774681",
+        "Приобретение комплекса суточного мониторирования ЭКГ для нужд УФСБ России по Липецкой области",
+        212889.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0146100008321000034"
+    ],
+    [
+        "УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ БЕЗОПАСНОСТИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=774681",
+        "Приобретение изделий медицинского назначения  для нужд УФСБ России по Липецкой области",
+        17000.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0146100008321000038"
+    ],
+    [
+        "УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ БЕЗОПАСНОСТИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=774681",
+        "Приобретение изделий медицинского назначения  для нужд УФСБ России по Липецкой области",
+        1493.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0146100008321000037"
+    ],
+    [
+        "УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ БЕЗОПАСНОСТИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=774681",
+        "Приобретение дезинфицирующих средств  для нужд УФСБ России по Липецкой области",
+        328118.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0146100008321000032"
+    ],
+    [
+        "УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ БЕЗОПАСНОСТИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=774681",
+        "Приобретение дентального радиовизиографа  для нужд УФСБ России по Липецкой области",
+        421437.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0146100008321000035"
+    ],
+    [
+        "УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ БЕЗОПАСНОСТИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=774681",
+        "Приобретение рабочего места оториноларинголога для нужд УФСБ России по Липецкой области",
+        2663173.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0146100008321000033"
+    ],
+    [
+        "УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ БЕЗОПАСНОСТИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=774681",
+        "Приобретение перевязочных средств  для нужд УФСБ России по Липецкой области.",
+        2640.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0146100008321000031"
+    ],
+    [
+        "УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ БЕЗОПАСНОСТИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=774681",
+        "Приобретение перевязочных средств  для нужд УФСБ России по Липецкой области",
+        4770.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0146100008321000030"
+    ],
+    [
+        "УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ БЕЗОПАСНОСТИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=774681",
+        "Приобретение изделий медицинского назначения  для нужд УФСБ России по Липецкой области",
+        71460.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0146100008321000026"
+    ],
+    [
+        "УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ БЕЗОПАСНОСТИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=774681",
+        "Приобретение стоматологических расходных материалов  для нужд УФСБ России по Липецкой области.",
+        122293.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0146100008321000021"
+    ],
+    [
+        "УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ БЕЗОПАСНОСТИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=774681",
+        "Приобретение изделий медицинского назначения  для нужд УФСБ России по Липецкой области",
+        43075.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0146100008321000028"
+    ],
+    [
+        "УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ БЕЗОПАСНОСТИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=774681",
+        "Приобретение изделий медицинского назначения  для нужд УФСБ России по Липецкой области.",
+        20696.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0146100008321000027"
+    ],
+    [
+        "УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ БЕЗОПАСНОСТИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=774681",
+        "Приобретение реактивов для клинико-диагностической лаборатории  для нужд УФСБ России по Липецкой области.",
+        153883.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0146100008321000025"
+    ],
+    [
+        "УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ БЕЗОПАСНОСТИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=774681",
+        "Приобретение реактивов для клинико-диагностической лаборатории  для нужд УФСБ России по Липецкой области.",
+        142000.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0146100008321000024"
+    ],
+    [
+        "УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ БЕЗОПАСНОСТИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=774681",
+        "Приобретение реактивов для клинико-диагностической лаборатории  для нужд УФСБ России по Липецкой области.",
+        42600.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0146100008321000023"
+    ],
+    [
+        "УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ БЕЗОПАСНОСТИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=774681",
+        "Приобретение изделий медицинского назначения  для нужд УФСБ России по Липецкой области.",
+        8410.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0146100008321000022"
+    ],
+    [
+        "УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ БЕЗОПАСНОСТИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=774681",
+        "Приобретение стоматологических расходных материалов  для нужд УФСБ России по Липецкой области.",
+        13205.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0146100008321000020"
+    ],
+    [
+        "УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ БЕЗОПАСНОСТИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=774681",
+        "Оказание услуг по  организации и проведению занятий по физической подготовке (легкая атлетика)  для нужд УФСБ России по\r\nЛипецкой области.",
+        215000.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0146100008321000019"
+    ],
+    [
+        "УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ БЕЗОПАСНОСТИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=774681",
+        "Оказание услуг по поверке и калибровке средств измерений для нужд УФСБ России по Липецкой области",
+        47722.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0146100008321000016"
+    ],
+    [
+        "УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ БЕЗОПАСНОСТИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=774681",
+        "Оказание услуг по техническому обслуживанию систем кондиционирования воздуха для нужд УФСБ России по Липецкой области",
+        94275.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0146100008321000015"
+    ],
+    [
+        "УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ БЕЗОПАСНОСТИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=774681",
+        "Приобретение шин для автомобилей в рамках ГОЗ для нужд УФСБ России по Липецкой области.",
+        97600.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0146100008321000010"
+    ],
+    [
+        "УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ БЕЗОПАСНОСТИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=774681",
+        "Приобретение аккумуляторных батарей  для автомобилей в рамках ГОЗ  для нужд УФСБ России по Липецкой области",
+        63100.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0146100008321000009"
+    ],
+    [
+        "УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ БЕЗОПАСНОСТИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=774681",
+        "Оказание услуг по  огнезащитной обработке деревянных конструкций на объектах Управления для нужд УФСБ России по Липецкой области.",
+        175440.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0146100008321000008"
+    ],
+    [
+        "УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ БЕЗОПАСНОСТИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=774681",
+        "Оказание услуг по заправке и восстановлению картриджей к вычислительной технике в сфере ИКТ для нужд УФСБ России по\r\nЛипецкой области",
+        400000.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0146100008321000007"
+    ],
+    [
+        "УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ БЕЗОПАСНОСТИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=774681",
+        "Приобретение ультрабуков в рамках ГОЗ для нужд УФСБ России по Липецкой области",
+        217988.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0146100008321000006"
+    ],
+    [
+        "УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ БЕЗОПАСНОСТИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=774681",
+        "Приобретение реактивов для клинико-диагностической лаборатории  для нужд УФСБ России по Липецкой области.",
+        123300.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0146100008321000005"
+    ],
+    [
+        "УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ БЕЗОПАСНОСТИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=774681",
+        "Оказание услуг по  комплексному техническому обслуживанию и техническому освидетельствованию медицинской техники для нужд УФСБ России по Липецкой области",
+        195000.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0146100008321000004"
+    ],
+    [
+        "УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ БЕЗОПАСНОСТИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=774681",
+        "Оказание услуг по техническому обслуживанию систем кондиционирования воздуха в рамках ГОЗ для нужд УФСБ России по Липецкой области",
+        68133.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0146100008321000003"
+    ],
+    [
+        "УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ БЕЗОПАСНОСТИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=774681",
+        "Приобретение ультрабуков в рамках ГОЗ для нужд УФСБ России по Липецкой области",
+        217988.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0146100008321000002"
+    ],
+    [
+        "УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ БЕЗОПАСНОСТИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=774681",
+        "Оказание услуг по предоставлению доступа к сети интернет для нужд УФСБ России по Липецкой области.",
+        339280.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0146100008320000037"
+    ],
+    [
+        "УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ БЕЗОПАСНОСТИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=774681",
+        "Оказание услуг по размещению оборудования связи для нужд УФСБ России по Липецкой области",
+        300240.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0146100008320000036"
+    ],
+    [
+        "УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ БЕЗОПАСНОСТИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=774681",
+        "Оказание услуг междугородной и международной телефонной связи для нужд УФСБ России по Липецкой области",
+        32369.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0146100008320000035"
+    ],
+    [
+        "УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ ГОСУДАРСТВЕННОЙ РЕГИСТРАЦИИ, КАДАСТРА И КАРТОГРАФИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=617951",
+        "Выполнение работ по проведению ежегодного периодического инструментального контроля и аттестации автоматизированных рабочих мест для обработки сведений, составляющих государственную тайну",
+        220000.0,
+        "https://zakupki.gov.ru/epz/order/notice/zkk44/view/common-info.html?regNumber=0146100000120000043"
+    ],
+    [
+        "УПРАВЛЕНИЕ ЭКОЛОГИИ И ПРИРОДНЫХ РЕСУРСОВ ЛИПЕЦКОЙ ОБЛАСТИ",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=688324",
+        "Оказание услуг по осуществлению строительного контроля при проведении работ по объекту «Расчистка ложа пруда, расположенного в районе д. № 9 по ул. Садовая в с. Баловнево Данковского района Липецкой области»",
+        40208.0,
+        "https://zakupki.gov.ru/epz/order/notice/zk20/view/common-info.html?regNumber=0146200001624000023"
+    ],
+    [
+        "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И  ИСПЫТАНИЙ В ЛИПЕЦКОЙ ОБЛАСТИ\"",
+        "https://zakupki.gov.ru/epz/organization/view223/info.html?agencyId=48910",
+        "Динамометр электронный 2000 кН",
+        295700.0,
+        "https://zakupki.gov.ru/epz/order/notice/notice223/common-info.html?noticeInfoId=16716935"
+    ],
+    [
+        "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И  ИСПЫТАНИЙ В ЛИПЕЦКОЙ ОБЛАСТИ\"",
+        "https://zakupki.gov.ru/epz/organization/view223/info.html?agencyId=48910",
+        "Установка поверочная ГВП",
+        1350000.0,
+        "https://zakupki.gov.ru/epz/order/notice/notice223/common-info.html?noticeInfoId=16716895"
+    ],
+    [
+        "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ \"ЛИПЕЦКИЙ ГОСУДАРСТВЕННЫЙ ТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\"",
+        "https://zakupki.gov.ru/epz/organization/view223/info.html?agencyId=100680",
+        "Поставка оборудования (интерактивные панели, мфу, персональные компьютеры, проекторы, экраны для проектора)  для нужд ФГБОУ ВО \"ЛГТУ\" в рамках федерального проекта \"Профессионалитет\"",
+        5492718.0,
+        "https://zakupki.gov.ru/epz/order/notice/notice223/common-info.html?noticeInfoId=16734318"
+    ],
+    [
+        "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ \"ЛИПЕЦКИЙ ГОСУДАРСТВЕННЫЙ ТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\"",
+        "https://zakupki.gov.ru/epz/organization/view223/info.html?agencyId=100680",
+        "Поставка оборудования (ноутбук)  для нужд ФГБОУ ВО \"ЛГТУ\" в рамках федерального проекта \"Профессионалитет\"",
+        1543725.0,
+        "https://zakupki.gov.ru/epz/order/notice/notice223/common-info.html?noticeInfoId=16714616"
+    ],
+    [
+        "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ВОЙСКОВАЯ ЧАСТЬ 62632\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=731218",
+        "Оказание услуг по предоставлению временного жилья для учебных нужд Федерального казенного учреждения «Войсковая часть 62632» в 2022 году",
+        25676280.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0346100005421000014"
+    ],
+    [
+        "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ВОЙСКОВАЯ ЧАСТЬ 62632\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=731218",
+        "Мебель для учебных нужд Федерального казенного учреждения \"Войсковая часть 62632\"",
+        1255449.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0346100005421000012"
+    ],
+    [
+        "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ВОЙСКОВАЯ ЧАСТЬ 62632\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=731218",
+        "Оказание услуг по предоставлению временного жилья для учебных нужд Федерального казенного учреждения \"Войсковая часть 62632\"",
+        27780405.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0346100005421000011"
+    ],
+    [
+        "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ВОЙСКОВАЯ ЧАСТЬ 62632\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=731218",
+        "Спецпортфели для переноски секретных документов",
+        54000.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0346100005421000006"
+    ],
+    [
+        "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ВОЙСКОВАЯ ЧАСТЬ 62632\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=731218",
+        "Автоматизированные рабочие места",
+        1000000.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0346100005421000003"
+    ],
+    [
+        "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ВОЙСКОВАЯ ЧАСТЬ 62632\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=731218",
+        "Приобретение пеналов",
+        20000.0,
+        "https://zakupki.gov.ru/epz/order/notice/inm111/view/common-info.html?regNumber=0346100005421000002"
+    ],
+    [
+        "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ИСПРАВИТЕЛЬНАЯ КОЛОНИЯ № 3 УПРАВЛЕНИЯ ФЕДЕРАЛЬНОЙ СЛУЖБЫ ИСПОЛНЕНИЯ НАКАЗАНИЙ ПО ЛИПЕЦКОЙ ОБЛАСТИ\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=633857",
+        "Комплектующие для теплообменника ТИЖ-0.18-19,8-1*110 (УТО)",
+        159878.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0346100000524000022"
+    ],
+    [
+        "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ИСПРАВИТЕЛЬНАЯ КОЛОНИЯ № 3 УПРАВЛЕНИЯ ФЕДЕРАЛЬНОЙ СЛУЖБЫ ИСПОЛНЕНИЯ НАКАЗАНИЙ ПО ЛИПЕЦКОЙ ОБЛАСТИ\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=633857",
+        "Многофункциональное устройство (Закупка относится к сфере ИКТ)",
+        104366.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0346100000524000021"
+    ],
+    [
+        "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ИСПРАВИТЕЛЬНАЯ КОЛОНИЯ № 3 УПРАВЛЕНИЯ ФЕДЕРАЛЬНОЙ СЛУЖБЫ ИСПОЛНЕНИЯ НАКАЗАНИЙ ПО ЛИПЕЦКОЙ ОБЛАСТИ\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=633857",
+        "Оказание услуги по проведению экспертизы промышленной безопасности трубопровода пара 4 категории (УТО)",
+        48000.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0346100000524000020"
+    ],
+    [
+        "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ИСПРАВИТЕЛЬНАЯ КОЛОНИЯ № 4 УПРАВЛЕНИЯ ФЕДЕРАЛЬНОЙ СЛУЖБЫ ИСПОЛНЕНИЯ НАКАЗАНИЙ ПО ЛИПЕЦКОЙ ОБЛАСТИ\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=712563",
+        "Оказание транспортно-экспедиционных услуг по доставке мыла хозяйственного",
+        153633.0,
+        "https://zakupki.gov.ru/epz/order/notice/zk20/view/common-info.html?regNumber=0346100000424000025"
+    ],
+    [
+        "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ИСПРАВИТЕЛЬНАЯ КОЛОНИЯ № 4 УПРАВЛЕНИЯ ФЕДЕРАЛЬНОЙ СЛУЖБЫ ИСПОЛНЕНИЯ НАКАЗАНИЙ ПО ЛИПЕЦКОЙ ОБЛАСТИ\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=712563",
+        "Внешний накопитель данных (закупка в сфере ИКТ)",
+        14012.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0346100000424000026"
+    ],
+    [
+        "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ТЮРЬМА № 2 УПРАВЛЕНИЯ ФЕДЕРАЛЬНОЙ СЛУЖБЫ ИСПОЛНЕНИЯ НАКАЗАНИЙ ПО ЛИПЕЦКОЙ ОБЛАСТИ\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=653853",
+        "Поставка аккумуляторных батарей(ОКСиР)",
+        69614.0,
+        "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0346100001024000014"
+    ],
+    [
+        "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ТЮРЬМА № 2 УПРАВЛЕНИЯ ФЕДЕРАЛЬНОЙ СЛУЖБЫ ИСПОЛНЕНИЯ НАКАЗАНИЙ ПО ЛИПЕЦКОЙ ОБЛАСТИ\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=653853",
+        "Топливо дизельное летнее(розничная поставка)",
+        30256.0,
+        "https://zakupki.gov.ru/epz/order/notice/zk20/view/common-info.html?regNumber=0346100001024000013"
+    ],
+    [
+        "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ТЮРЬМА № 2 УПРАВЛЕНИЯ ФЕДЕРАЛЬНОЙ СЛУЖБЫ ИСПОЛНЕНИЯ НАКАЗАНИЙ ПО ЛИПЕЦКОЙ ОБЛАСТИ\"",
+        "https://zakupki.gov.ru/epz/organization/view/info.html?organizationId=653853",
+        "Поставка запорной арматуры(ОКСиР)",
+        78000.0,
+        "https://zakupki.gov.ru/epz/order/notice/zk20/view/common-info.html?regNumber=0346100001024000012"
+    ]
+]
